@@ -1,0 +1,12 @@
+{INFO}  StepDefinition.Steps   cookie accepted                     27-Sep-2021 Monday EDT 20:36:22
+{INFO}  StepDefinition.Steps   cookie accepted                     27-Sep-2021 Monday EDT 20:36:44
+{INFO}  StepDefinition.Steps   Text when Aspiration Button is clicked is: Aspiration                     27-Sep-2021 Monday EDT 20:36:44
+{INFO}  StepDefinition.Steps   Text when Aspiration Plus Button is clicked is: Aspiration Plus                     27-Sep-2021 Monday EDT 20:36:44
+{INFO}  StepDefinition.Steps   Assertion of Text Buttons complete.....                     27-Sep-2021 Monday EDT 20:36:44
+{INFO}  StepDefinition.Steps   Get Aspiration Clicked!                     27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   Modal doesn't have an input tag                     27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   Modal from the aspiration closed                     27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   Aspiration Plus button clicked!                     27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   yearly shows $71.88 paid once yearly                      27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   Monthly shows:$7.99 paid monthly                      27-Sep-2021 Monday EDT 20:36:45
+{INFO}  StepDefinition.Steps   driver closed                     27-Sep-2021 Monday EDT 20:36:46
